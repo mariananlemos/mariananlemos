@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mariananlemos.
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and Deep Learning.
+- 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m willing to learn.
 - 💞️ I’m looking to collaborate in the programming universe.
 - 📫 How to reach me: www.linkedin.com/in/mariananlemos.
