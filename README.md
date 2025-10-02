@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mariananlemos.
-- 🌱 I’m willing to learn.
-- 💞️ I’m looking to collaborate in the programming universe.
-- 📫 How to reach me: www.linkedin.com/in/mariananlemos.
+- 🤝 Open to collaborating on projects that encourage learning, teamwork and practical impact.
+- 📫 Let’s connect on www.linkedin.com/in/mariananlemos.
 
 <!---
 mariananlemos/mariananlemos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
