@@ -20,9 +20,3 @@
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" 
      alt="LinkedIn" width="40" height="40" style="fill:black;"/>
 </a>
-<a href="https://github.com/mariananlemos" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</a>
-<a href="mailto:mariananascimentolemos@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
-</a>
