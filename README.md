@@ -1,5 +1,5 @@
 <h1>I'm Mariana <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
-🔬 I build tech solutions for real-world problems: health, environment and accessibility
+I build tech solutions for real-world problems: health, environment and accessibility
 
 ## I code with
 
@@ -21,15 +21,15 @@
 
 <br/><br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - 🦟 [Dengue & Climate Forecasting SP](https://climate-dengue-forecasting-sp.vercel.app/) — Correlation analysis between climate variables and dengue cases in São Paulo using Random Forest · Python · InfoDengue · INMET
 - 🌳 [Amazon Deforestation Predictor](https://amazon-deforestation-three.vercel.app/) — Predictive modeling of deforestation in the Brazilian Amazon · Python · DETER/INPE
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <img src="https://streak-stats.demolab.com?user=mariananlemos&theme=radical&hide_border=true" />
 
-## 📫 Let's connect
+## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariananlemos)
