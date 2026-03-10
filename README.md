@@ -1,47 +1,46 @@
-![Banner](./banner.png)
+<h1>I'm Mariana <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
 
-# Hi, I'm Mariana 👋
+<p>kinda science lover 🧬</p>
 
-CS at UFABC | Developer focused on Machine Learning, HealthTech & Accessibility
-I build things that solve real problems: from public health dashboards to sign language tools.
+## About me
 
----
+- 🔬 I build tech solutions for real-world problems: health, environment and accessibility
+
+## I code with
+
+<a href="https://python.org" target="_blank">
+  <img align="left" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img align="left" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</a>
+<a href="https://reactjs.org" target="_blank">
+  <img align="left" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</a>
+<a href="https://aws.amazon.com" target="_blank">
+  <img align="left" title="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+</a>
+<a href="https://www.r-project.org" target="_blank">
+  <img align="left" title="R" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+</a>
+
+<br/><br/>
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/mariananlemos/climate-dengue-forecasting-sp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariananlemos&repo=climate-dengue-forecasting-sp&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/mariananlemos/amazon-deforestation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariananlemos&repo=amazon-deforestation&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/mariananlemos/libras-accessibility-extension">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariananlemos&repo=libras-accessibility-extension&theme=tokyonight&hide_border=true" />
-</a>
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
----
+- 🦟 [Dengue & Climate Forecasting SP](https://climate-dengue-forecasting-sp.vercel.app/) — Correlation analysis between climate variables and dengue cases in São Paulo using Random Forest · Python · InfoDengue · INMET
+- 🌳 [Amazon Deforestation Predictor](https://amazon-deforestation-three.vercel.app/) — Predictive modeling of deforestation in the Brazilian Amazon · Python · DETER/INPE
 
 ## 📊 GitHub Stats
 
 <a href="https://github.com/mariananlemos">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mariananlemos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mariananlemos&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/mariananlemos">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariananlemos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariananlemos&layout=compact&theme=radical&hide_border=true&card_width=320" />
 </a>
 
----
+<br/>
 
 ## 📫 Let's connect
 
