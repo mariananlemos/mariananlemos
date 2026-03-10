@@ -1,5 +1,5 @@
-<h1>I'm Mariana <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
-I build tech solutions for real-world problems: health, environment and accessibility
+<h1>Hi! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
+I'm Mariana Lemos and I build tech solutions for real-world problems: health, environment and accessibility.
 
 ## I code with
 
