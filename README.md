@@ -1,10 +1,8 @@
 <h1>I'm Mariana <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
 
-<p>kinda science lover 🧬</p>
-
 ## About me
 
-- 🔬 I build tech solutions for real-world problems: health, environment and accessibility
+🔬 I build tech solutions for real-world problems: health, environment and accessibility
 
 ## I code with
 
@@ -33,14 +31,7 @@
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/mariananlemos">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mariananlemos&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/mariananlemos">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariananlemos&layout=compact&theme=radical&hide_border=true&card_width=320" />
-</a>
-
-<br/>
+<img src="https://streak-stats.demolab.com?user=mariananlemos&theme=radical&hide_border=true" />
 
 ## 📫 Let's connect
 
