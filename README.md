@@ -2,14 +2,24 @@
 
 # Hi, I'm Mariana 👋
 
-CS student at UFABC | Developer focused on Machine Learning, HealthTech & Accessibility  
+CS at UFABC | Developer focused on Machine Learning, HealthTech & Accessibility
 I build things that solve real problems: from public health dashboards to sign language tools.
+
+---
 
 ## 🚀 Featured Projects
 
-- 🦟 [Dengue & Climate Forecasting SP](https://climate-dengue-forecasting-sp.vercel.app/) — Correlation analysis between climate variables and dengue cases in São Paulo using Random Forest · Python · InfoDengue · INMET
-- 🌳 [Amazon Deforestation Predictor](https://amazon-deforestation-three.vercel.app/) — Predictive modeling of deforestation in the Brazilian Amazon · Python · DETER/INPE
-- 🤟 [Libras Accessibility Extension](https://github.com/mariananlemos/libras-accessibility-extension) — Browser extension for real-time audio-to-Libras translation using VLibras API · JavaScript · Python
+<a href="https://github.com/mariananlemos/climate-dengue-forecasting-sp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariananlemos&repo=climate-dengue-forecasting-sp&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/mariananlemos/amazon-deforestation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariananlemos&repo=amazon-deforestation&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/mariananlemos/libras-accessibility-extension">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mariananlemos&repo=libras-accessibility-extension&theme=tokyonight&hide_border=true" />
+</a>
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -20,11 +30,18 @@ I build things that solve real problems: from public health dashboards to sign l
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
+---
+
 ## 📊 GitHub Stats
 
-![Mariana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariananlemos&show_icons=true&theme=tokyonight&hide_border=true)
+<a href="https://github.com/mariananlemos">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mariananlemos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/mariananlemos">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariananlemos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariananlemos&layout=compact&theme=tokyonight&hide_border=true)
+---
 
 ## 📫 Let's connect
 
