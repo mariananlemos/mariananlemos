@@ -9,16 +9,15 @@ I'm Mariana Lemos and I build tech solutions for real-world problems: health, en
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img align="left" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </a>
-<a href="https://reactjs.org" target="_blank">
-  <img align="left" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<a href="https://www.postgresql.org" target="_blank">
+  <img align="left" title="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </a>
 <a href="https://aws.amazon.com" target="_blank">
   <img align="left" title="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </a>
-<a href="https://www.r-project.org" target="_blank">
-  <img align="left" title="R" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-</a>
-
+<!-- <a href="https://reactjs.org" target="_blank">
+  <img align="left" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</a> -->
 <br/><br/>
 
 ## Featured Projects
