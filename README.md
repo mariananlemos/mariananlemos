@@ -1,5 +1,5 @@
 <h1>Hi! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
-I'm Mariana Lemos and I build tech solutions for real-world problems: health, environment and accessibility.
+I am Mariana and I build tech solutions for real-world problems: health, environment and accessibility.
 
 ## I code with
 
@@ -18,15 +18,16 @@ I'm Mariana Lemos and I build tech solutions for real-world problems: health, en
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img align="left" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </a>
-<!-- <a href="https://reactjs.org" target="_blank">
+<a href="https://reactjs.org" target="_blank">
   <img align="left" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</a> -->
+</a>
 <br/><br/>
 
 ## Featured Projects
 
 - 🦟 [Dengue & Climate Forecasting SP](https://climate-dengue-forecasting-sp.vercel.app/) — Correlation analysis between climate variables and dengue cases in São Paulo using Random Forest · Python · InfoDengue · INMET
 - 🌳 [Amazon Deforestation Predictor](https://amazon-deforestation-three.vercel.app/) — Predictive modeling of deforestation in the Brazilian Amazon · Python · DETER/INPE
+- 🏥 [VidaSUS](https://vida-sus.vercel.app/) — AI-powered health navigation assistant for Brazil's public health system (SUS) · React · Web Speech API · CNES/DATASUS
 
 ## GitHub Stats
 
