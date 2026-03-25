@@ -28,6 +28,7 @@ I am Mariana and I build tech solutions for real-world problems: health, environ
 - 🦟 [Dengue & Climate Forecasting SP](https://climate-dengue-forecasting-sp.vercel.app/) — Correlation analysis between climate variables and dengue cases in São Paulo using Random Forest · Python · InfoDengue · INMET
 - 🌳 [Amazon Deforestation Predictor](https://amazon-deforestation-three.vercel.app/) — Predictive modeling of deforestation in the Brazilian Amazon · Python · DETER/INPE
 - 🏥 [VidaSUS](https://vida-sus.vercel.app/) — AI-powered health navigation assistant for Brazil's public health system (SUS) · React · Web Speech API · CNES/DATASUS
+- 🤟 [Sinal](https://libras-accessibility.vercel.app/) — Real-time speech-to-Libras translator for accessible video meetings · Python · JavaScript · HTML · CSS · VLibras · Web Speech API
 
 ## GitHub Stats
 
