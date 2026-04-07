@@ -1,5 +1,5 @@
 <h1>Hi! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
-I am Mariana and I build tech solutions for real-world problems: health, environment and accessibility.
+I am Mariana and I build tech solutions for real-world problems: health, environment and accessibility — including full-stack mobile apps.
 
 ## I code with
 
@@ -20,6 +20,12 @@ I am Mariana and I build tech solutions for real-world problems: health, environ
 </a>
 <a href="https://reactjs.org" target="_blank">
   <img align="left" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img align="left" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</a>
+<a href="https://reactnative.dev/" target="_blank">
+  <img align="left" title="React Native" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </a>
 <br/><br/>
 
