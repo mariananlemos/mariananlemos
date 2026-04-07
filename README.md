@@ -15,17 +15,14 @@ I am Mariana and I build tech solutions for real-world problems: health, environ
 <a href="https://www.r-project.org" target="_blank">
   <img align="left" title="R" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 </a>
+<a href="https://reactjs.org" target="_blank">
+  <img align="left" title="React/React Native" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img align="left" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </a>
-<a href="https://reactjs.org" target="_blank">
-  <img align="left" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</a>
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img align="left" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</a>
-<a href="https://reactnative.dev/" target="_blank">
-  <img align="left" title="React Native" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </a>
 <br/><br/>
 
