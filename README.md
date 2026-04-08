@@ -18,15 +18,6 @@ I am Mariana and I build tech solutions for real-world problems: health, environ
 <a href="https://reactjs.org" target="_blank">
   <img align="left" title="React/React Native" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img align="left" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img align="left" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</a>
-<a href="https://developer.apple.com/swift/" target="_blank">
-  <img align="left" title="Swift" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-</a>
 <br/><br/>
 
 ## Featured Projects
