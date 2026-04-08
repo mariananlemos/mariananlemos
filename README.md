@@ -9,14 +9,14 @@ I am Mariana and I build tech solutions for real-world problems: health, environ
 <a href="https://www.postgresql.org" target="_blank">
   <img align="left" title="SQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </a>
-<a href="https://aws.amazon.com" target="_blank">
-  <img align="left" title="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-</a>
 <a href="https://www.r-project.org" target="_blank">
   <img align="left" title="R" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 </a>
 <a href="https://reactjs.org" target="_blank">
   <img align="left" title="React/React Native" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</a>
+<a href="https://aws.amazon.com" target="_blank">
+  <img align="left" title="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </a>
 <br/><br/>
 
