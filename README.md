@@ -43,6 +43,6 @@ I am Mariana and I build tech solutions for real-world problems.
 
 <img src="https://streak-stats.demolab.com?user=mariananlemos&theme=radical&hide_border=true" />
 
-## Let's connect
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariananlemos)
