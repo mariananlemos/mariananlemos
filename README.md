@@ -9,6 +9,15 @@ I am Mariana and I build tech solutions for real-world problems.
 <a href="https://dotnet.microsoft.com" target="_blank">
   <img align="left" title=".NET" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
 </a>
+<a href="https://aws.amazon.com" target="_blank">
+  <img align="left" title="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+</a>
+<a href="https://www.terraform.io" target="_blank">
+  <img align="left" title="Terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+</a>
+<a href="https://git-scm.com" target="_blank">
+  <img align="left" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</a>
 <a href="https://python.org" target="_blank">
   <img align="left" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </a>
@@ -20,15 +29,6 @@ I am Mariana and I build tech solutions for real-world problems.
 </a>
 <a href="https://reactjs.org" target="_blank">
   <img align="left" title="React/React Native" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</a>
-<a href="https://aws.amazon.com" target="_blank">
-  <img align="left" title="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-</a>
-<a href="https://www.terraform.io" target="_blank">
-  <img align="left" title="Terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-</a>
-<a href="https://git-scm.com" target="_blank">
-  <img align="left" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
 <br/><br/>
 
