@@ -1,8 +1,14 @@
 <h1>Hi! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
-I am Mariana and I build tech solutions for real-world problems: health, environment and accessibility — including full-stack mobile apps.
+I am Mariana and I build tech solutions for real-world problems.
 
 ## I code with
 
+<a href="https://learn.microsoft.com/dotnet/csharp" target="_blank">
+  <img align="left" title="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+</a>
+<a href="https://dotnet.microsoft.com" target="_blank">
+  <img align="left" title=".NET" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+</a>
 <a href="https://python.org" target="_blank">
   <img align="left" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </a>
@@ -18,9 +24,15 @@ I am Mariana and I build tech solutions for real-world problems: health, environ
 <a href="https://aws.amazon.com" target="_blank">
   <img align="left" title="AWS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </a>
+<a href="https://www.terraform.io" target="_blank">
+  <img align="left" title="Terraform" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+</a>
+<a href="https://git-scm.com" target="_blank">
+  <img align="left" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</a>
 <br/><br/>
 
-## 🚀 Featured Projects
+## Projects
 
 - 🦟 [Dengue & Climate Forecasting SP](https://climate-dengue-forecasting-sp.vercel.app/) — Climate correlation analysis and time series forecasting for dengue cases in São Paulo · Python · InfoDengue · IAG/USP · INMET
 - 🌳 [Amazon Deforestation Predictor](https://amazon-deforestation-three.vercel.app/) — Predictive modeling of deforestation in the Brazilian Amazon · Python · Scikit-learn · Statsmodels · React
