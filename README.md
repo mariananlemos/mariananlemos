@@ -38,6 +38,8 @@ I am Mariana and I build tech solutions for real-world problems.
 - 🌳 [Amazon Deforestation Predictor](https://amazon-deforestation-three.vercel.app/) — Predictive modeling of deforestation in the Brazilian Amazon · Python · Scikit-learn · Statsmodels · React
 - 🏥 [VidaSUS](https://vida-sus.vercel.app/) — AI-powered health triage assistant that directs users to nearby public health services · React · Web Speech API · DATASUS
 - 🤟 [Sinal](https://libras-accessibility.vercel.app/) — Real-time speech-to-Libras translator for accessible video meetings · Python · JavaScript · VLibras · Web Speech API
+- 📈 Econometrics Project — Applied econometric analysis with real Brazilian fuel sales data (1996–2025), including regression modeling, statistical diagnostics, and data visualization · Python · Pandas · Statsmodels · Matplotlib
+- 🏟️ Premium Pass Arena - VIP stadium suite management SaaS for events and concerts · React · TypeScript · Firebase
 
 ## GitHub Stats
 
