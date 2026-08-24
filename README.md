@@ -36,7 +36,6 @@ I am Mariana and I build tech solutions for real-world problems.
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase"/>
   </kbd>
 </p>
-<br/><br/>
 
 ## Projects
 
