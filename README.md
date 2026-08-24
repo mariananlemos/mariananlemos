@@ -51,4 +51,9 @@ I am Mariana and I build tech solutions for real-world problems.
 - 🌸 [WoMakersCode](https://github.com/WoMakersCode) — Member
 
 ## GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=mariananlemos&theme=radical&hide_border=true)
+<p align="center">
+  <a href="https://github.com/mariananlemos">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mariananlemos&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mariananlemos&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
