@@ -40,10 +40,10 @@ I am Mariana and I build tech solutions for real-world problems.
 ## Projects
 
 - 🏟️ [Premium Pass Arena](https://premiumpassarena.com.br/) - SaaS for events · React · TypeScript · Firebase
-- 🦟 [Dengue & Climate Forecasting SP](https://climate-dengue-forecasting-sp.vercel.app/) — Climate correlation analysis and time series forecasting for dengue cases in São Paulo (2015-2025) · Python · InfoDengue · IAG/USP · INMET
-- 🌳 [Amazon Deforestation Predictor](https://amazon-deforestation-three.vercel.app/) — Predictive modeling of deforestation in the Brazilian Amazon (2015-2025) · Python · Scikit-learn · Statsmodels
 - 🏥 [VidaSUS](https://vida-sus.vercel.app/) — AI-powered health triage assistant that directs users to nearby public health services · React · Web Speech API · DATASUS
 - 🤟 [Sinal](https://libras-accessibility.vercel.app/) — Real-time speech-to-Libras translator for accessible video meetings · JavaScript · VLibras · Web Speech API
+- 🦟 [Dengue & Climate Forecasting SP](https://climate-dengue-forecasting-sp.vercel.app/) — Climate correlation analysis and time series forecasting for dengue cases in São Paulo (2015-2025) · Python · InfoDengue · IAG/USP · INMET
+- 🌳 [Amazon Deforestation Predictor](https://amazon-deforestation-three.vercel.app/) — Predictive modeling of deforestation in the Brazilian Amazon (2015-2025) · Python · Scikit-learn · Statsmodels
 - 📈 [Econometrics Project](https://projeto-econometria.vercel.app/) — Applied econometric analysis with real Brazilian fuel sales data (1996–2025), including regression modeling, statistical diagnostics and data visualization · Python · Pandas · Statsmodels · Matplotlib
 
 ## Communities
