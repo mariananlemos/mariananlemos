@@ -1,5 +1,8 @@
-<h1>Hi! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
-I'm Mariana, and I build tech solutions for real-world problems. I'm also a member of 🦋 [WoMakersCode](https://github.com/WoMakersCode).
+<h1>
+  Hi! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />
+</h1>
+
+I'm Mariana, and I build tech solutions for real-world problems. I'm also a member of 🌸 [WoMakersCode](https://github.com/WoMakersCode).
 
 ## I code with
 
