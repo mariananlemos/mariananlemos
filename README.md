@@ -4,7 +4,7 @@
 
 I'm Mariana, and I build tech solutions for real-world problems. I'm also a member of [WoMakersCode](https://github.com/WoMakersCode) 🦋.
 
-## I code with
+## Tech Stack
 
 <p style="display: inline-block;" align="center">
   <kbd>
