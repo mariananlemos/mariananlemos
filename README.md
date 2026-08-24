@@ -1,5 +1,5 @@
 <h1>Hi! <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /></h1>
-I am Mariana and I build tech solutions for real-world problems.
+I am Mariana and I build tech solutions for real-world problems. Also, i am member of 🌸 [WoMakersCode](https://github.com/WoMakersCode).
 
 ## I code with
 
@@ -45,9 +45,6 @@ I am Mariana and I build tech solutions for real-world problems.
 - 🦟 [Dengue & Climate Forecasting SP](https://climate-dengue-forecasting-sp.vercel.app/) — Climate correlation analysis and time series forecasting for dengue cases in São Paulo (2015-2025) · Python · InfoDengue · IAG/USP · INMET
 - 🌳 [Amazon Deforestation Predictor](https://amazon-deforestation-three.vercel.app/) — Predictive modeling of deforestation in the Brazilian Amazon (2015-2025) · Python · Scikit-learn · Statsmodels
 - 📈 [Econometrics Project](https://projeto-econometria.vercel.app/) — Applied econometric analysis with real Brazilian fuel sales data (1996–2025), including regression modeling, statistical diagnostics and data visualization · Python · Pandas · Statsmodels · Matplotlib
-
-## Communities
-- 🌸 [WoMakersCode](https://github.com/WoMakersCode) — Member
 
 ## GitHub Stats
 <p align="center">
